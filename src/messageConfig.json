@@ -1,0 +1,7 @@
+{
+  "successColor": "3CB371",
+  "warningColor": "FFA500",
+  "errorColor": "8B0000",
+  "userNoPermissions": "You don't have the necessary permissions to use this command.",
+  "botNoPermissions": "I lack the permissions required to perform this action."
+}
